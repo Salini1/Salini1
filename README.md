@@ -11,3 +11,8 @@ My full name is Salini Ravinthiran.Currently,I am a first year data engineering 
 - 📫 You can reach me by email: ravinthiran@graduate.utm.my
 
 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Salini1)](https://github.com/Salini1)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salini1&layout=compact)](https://github.com/Salini1)
+
+
