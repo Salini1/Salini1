@@ -1,7 +1,7 @@
 ### Hi there 👋I'm Salini :smile:
 
 
-My full name is Salini Ravinthiran.Currently,I am a first year data engineering student at University Teknologi Malaysia(UTM).
+My full name is Salini Ravinthiran.Currently,I am a second year student at University Teknologi Malaysia(UTM).
 
 
 ##### About me
