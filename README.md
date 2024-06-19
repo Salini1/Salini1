@@ -1,5 +1,5 @@
 <!--Banner-->
-![Salini Banner Image](./banner.png)
+![Salini Banner Image](https://github.com/Salini1/WP-E-portfolio/blob/72538f5c1175f102d9374dfe94209baeddc9b4c9/Github%20banner.png)
 
 <!--Night Owl image-->
 <div>
